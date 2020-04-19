@@ -1,5 +1,5 @@
-# Tic-Tac-Toe-
-# Tic Tac Toe
+# Tic-Tac-Toe
+
 Tic-tac-toe game using Android
 
 Welcome to TicTacToe.
